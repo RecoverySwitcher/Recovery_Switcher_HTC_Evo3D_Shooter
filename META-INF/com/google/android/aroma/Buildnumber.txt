@@ -1,0 +1,7 @@
+<@center><b>Recovery In Here/BuildNumber</b></@>
+<*>Unofficial TWRP Recovery / With SELinux Support 2.6.3.0</*>
+<*>Unofficial Philz Touch 6.41.8</*>
+<*>Official TWRP Recovery 2.6.3.0</*>
+<*>ClockworkMod Touch 5.8.0.2</*>
+<*>ClockworkMod Non Touch 5.0.2.0</*>
+<*>4EXT Recovery 1.0.0.6 RC3</*>
